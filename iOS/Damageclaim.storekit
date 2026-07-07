@@ -1,0 +1,29 @@
+{
+  "identifier": "Damageclaim",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "damageclaim_pro",
+      "localizations": [
+        {
+          "description": "Document checklist and payout tracking export",
+          "displayName": "Damageclaim Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.damageclaim.pro",
+      "referenceName": "Damageclaim Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
